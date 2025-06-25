@@ -3,11 +3,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.behance.net/yourprofile" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://facebook.com/yourprofile" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
   <a href="https://instagram.com/yourhandle" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.researchgate.net/profile/your-profile" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" /></a>
 </p>
 
 ---
@@ -28,17 +25,6 @@
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" colspan="4"><strong>CSS Frameworks and Library</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
-  </tr>
-</table>
-
 <br/>
 
 <table align="center">
@@ -55,8 +41,7 @@
 
 ### 📝 Additional Details
 
-- 🎓 BSIT graduate specialized in Mobile and Web Application  
-- 🎨 Check my creative projects here: [Behance](https://www.behance.net/yourprofile)  
+- 🎓 BSIT student specialized in Mobile and Web Application  
 - 📬 You may contact me here: [LinkedIn](https://www.linkedin.com/in/your-link/)  
 
 ---
