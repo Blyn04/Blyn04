@@ -64,7 +64,7 @@
 
 ### 📝 Additional Details
 
-- 🎓 BSIT graduate specialized in Mobile and Web Application  
+- 🎓 BSIT student specialized in Mobile and Web Application  
 - 📬 You may contact me here: [LinkedIn](https://www.linkedin.com/in/your-link/)  
 
 ---
