@@ -56,6 +56,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Blyn04&theme=darkhub&margin-w=10&no-frame=true"/>
 </p>
 
+### 🗓️ Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blyn04&theme=react-dark" />
+</p>
+
+
 ---
 
 ### 📊 GitHub Stats
