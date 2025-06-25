@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Blyn04</h1>
-<h3 align="center">BSIT graduate specialized in Mobile and Web Application</h3>
+<h3 align="center">BSIT student specialized in Mobile and Web Application</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
