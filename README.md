@@ -1,4 +1,4 @@
-<h3 align="center">BSIT student specialized in Mobile and Web Application</h3>
+<h3 align="center">📱 BSIT Student Specializing in Mobile and Web Application Development</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -8,25 +8,25 @@
 
 ---
 
-### TECHNOLOGIES
+<h3 align="center">💻 Technologies I Use</h3>
 
 <table align="center">
   <tr>
-    <th>Stack</th>
-    <th>Databases</th>
-    <th>Mobile Development</th>
-    <th>Others</th>
+    <th align="center">💡 Stack</th>
+    <th align="center">🗄️ Databases</th>
+    <th align="center">📱 Mobile</th>
+    <th align="center">🛠️ Tools & Others</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/><br/>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/>
@@ -45,12 +45,12 @@
 
 ### 📝 Additional Details
 
-- 🎓 BSIT student specialized in Mobile and Web Application  
-- 📬 You may contact me here: [LinkedIn](https://www.linkedin.com/in/your-link/)  
+- 🎓 BSIT student specialized in Mobile and Web Application Development  
+- 📬 You may contact me on [LinkedIn](https://www.linkedin.com/in/your-link/)
 
 ---
 
-### 🏆 Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Blyn04&theme=darkhub&margin-w=10&no-frame=true"/>
