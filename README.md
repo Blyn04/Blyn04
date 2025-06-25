@@ -35,6 +35,7 @@
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
     </td>
