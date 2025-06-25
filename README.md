@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Blyn04</h1>
 <h3 align="center">BSIT student specialized in Mobile and Web Application</h3>
 
 <p align="center">
@@ -9,7 +8,7 @@
 
 ---
 
-### 🎯 FAVORITE TECHNOLOGIES
+### TECHNOLOGIES
 
 <table align="center">
   <tr>
