@@ -56,13 +56,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Blyn04&theme=darkhub&margin-w=10&no-frame=true"/>
 </p>
 
-### 🗓️ Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blyn04&theme=react-dark" />
-</p>
-
-
 ---
 
 ### 📊 GitHub Stats
@@ -70,4 +63,20 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Blyn04&show_icons=true&theme=radical" />
   <img src="https://streak-stats.demolab.com?user=Blyn04&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🗓️ Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blyn04&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🔤 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blyn04&layout=compact&theme=radical" />
 </p>
