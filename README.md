@@ -65,16 +65,16 @@
 
 ---
 
-### 🗓️ Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blyn04&theme=react-dark&area=true&hide_border=true" />
-</p>
-
----
-
 ### 🔤 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blyn04&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🗓️ Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blyn04&theme=react-dark&area=true&hide_border=true" />
 </p>
