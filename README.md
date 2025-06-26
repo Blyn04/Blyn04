@@ -1,4 +1,4 @@
-<h1 align="center">Hi!, I'm Berlene</h1>
+<h1 align="center">Hi! I'm Berlene</h1>
 <h3 align="center">📱 BSIT Student Specializing in Mobile and Web Application Development</h3>
 
 <p align="center">
