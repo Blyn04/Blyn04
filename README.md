@@ -61,7 +61,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Blyn04&show_icons=true&theme=radical" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Blyn04&theme=dark&hide_border=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Blyn04&theme=dark&hide_border=true&t=<?= Date.now() ?>" />
+  <img src="https://streak-stats.demolab.com?user=Blyn04&theme=dark&hide_border=true" />
 </p>
 
 ---
