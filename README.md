@@ -12,7 +12,9 @@
 
 ### 📝 Additional Details
 
-I’m a 4th-year BSIT student at National University – MOA Campus, specializing in Web and Mobile Application Development. I have experience with Java, JavaScript, React, React Native, HTML, CSS, Android, and databases like MySQL, Firebase, and MongoDB.
+I am currently a 4th-year Bachelor of Science in Information Technology student, specializing in Web and Mobile Application Development, currently studying at the National University – MOA Campus.
+
+I have knowledge and experience in Java, JavaScript, React, React Native, CSS, HTML, web development, Android development, mobile development, and working with databases. I am also experienced in collaborating with teams across various platforms and technologies to deliver successful projects.
 
 ---
 
