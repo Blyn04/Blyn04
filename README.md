@@ -14,7 +14,7 @@
 
 I am currently a 4th-year Bachelor of Science in Information Technology student, specializing in Web and Mobile Application Development, currently studying at the National University – MOA Campus.
 
-I have knowledge and experience in Java, JavaScript, React, React Native, CSS, HTML, web development, Android development, mobile development, and working with databases. I am also experienced in collaborating with teams across various platforms and technologies to deliver successful projects.
+I am more focused on backend development than frontend, and I have experience collaborating with teams across diverse platforms and technologies to successfully deliver projects.
 
 ---
 
