@@ -61,7 +61,7 @@ I have knowledge and experience in Java, JavaScript, React, React Native, CSS, H
 
 <p align="center">
   <!-- GitHub Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Blyn04&theme=dark&hide_border=true&t=1" width="420" height="200" style="vertical-align: top;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Blyn04&theme=dark&hide_border=true&t=1" />
 
   <!-- GitHub Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Blyn04&show_icons=true&theme=radical" width="420" height="200" style="vertical-align: top;" />
