@@ -68,9 +68,7 @@ I have knowledge and experience in Java, JavaScript, React, React Native, CSS, H
 
   <!-- GitHub Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blyn04&layout=compact&theme=radical" 
-       width="420" 
-       height="180" 
-       style="vertical-align: top; margin-top: 20px;" />
+       width="420" height="180" style="vertical-align: top;  margin-bottom: '20px;'" />
 </p>
 
 ---
