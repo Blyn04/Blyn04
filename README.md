@@ -43,8 +43,7 @@
 
 ### 📝 Additional Details
 
-- 🎓 BSIT student specialized in Mobile and Web Application Development  
-- 📬 You may contact me on [LinkedIn](https://www.linkedin.com/in/your-link/)
+I’m a 4th-year BSIT student at National University – MOA Campus, specializing in Web and Mobile Application Development. I have experience with Java, JavaScript, React, React Native, HTML, CSS, Android, and databases like MySQL, Firebase, and MongoDB.
 
 ---
 
