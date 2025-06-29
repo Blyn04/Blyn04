@@ -14,7 +14,6 @@
 
 - 4th-year Bachelor of Science in Information Technology student, specializing in Web and Mobile Application Development.
 - Focused on backend development rather than frontend.
-- Experienced in collaborating with teams across diverse platforms and technologies to deliver successful projects.
 
 ---
 
