@@ -47,6 +47,8 @@ I have knowledge and experience in Java, JavaScript, React, React Native, CSS, H
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -61,13 +63,6 @@ I have knowledge and experience in Java, JavaScript, React, React Native, CSS, H
   <img src="https://github-readme-stats.vercel.app/api?username=Blyn04&show_icons=true&theme=radical" />
 <!--   <img src="https://nirzak-streak-stats.vercel.app/?user=Blyn04&theme=dark&hide_border=true" /> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=Blyn04&theme=dark&hide_border=true&t=1" />
-</p>
-
----
-
-### 🔤 Most Used Languages
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blyn04&layout=compact&theme=radical" />
 </p>
 
