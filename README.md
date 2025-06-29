@@ -12,9 +12,9 @@
 
 ### 📝 Additional Details
 
-I am currently a 4th-year Bachelor of Science in Information Technology student, specializing in Web and Mobile Application Development, currently studying at the National University – MOA Campus.
-
-I am more focused on backend development than frontend, and I have experience collaborating with teams across diverse platforms and technologies to successfully deliver projects.
+- 4th-year Bachelor of Science in Information Technology student, specializing in Web and Mobile Application Development.
+- Focused on backend development rather than frontend.
+- Experienced in collaborating with teams across diverse platforms and technologies to deliver successful projects.
 
 ---
 
