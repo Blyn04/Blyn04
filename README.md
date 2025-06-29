@@ -60,10 +60,14 @@ I have knowledge and experience in Java, JavaScript, React, React Native, CSS, H
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Blyn04&theme=dark&hide_border=true&t=1" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Blyn04&show_icons=true&theme=radical" width="420" height="200" />
-<!--   <img src="https://nirzak-streak-stats.vercel.app/?user=Blyn04&theme=dark&hide_border=true" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blyn04&layout=compact&theme=radical" width="420" height="180" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Blyn04&theme=dark&hide_border=true&t=1" width="420" height="200" style="vertical-align: top;" />
+
+  <!-- GitHub Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Blyn04&show_icons=true&theme=radical" width="420" height="200" style="vertical-align: top;" />
+
+  <!-- GitHub Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blyn04&layout=compact&theme=radical" width="420" height="200" style="vertical-align: top;" />
 </p>
 
 ---
