@@ -10,8 +10,6 @@
 
 ---
 
-### 📝 Additional Details
-
 - 4th-year Bachelor of Science in Information Technology student, specializing in Web and Mobile Application Development.
 - Backend-leaning Full Stack Developer.
 
