@@ -66,9 +66,9 @@
 
   ![itgauy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Blyn04&theme=graywhite&hide_border=true&border_radius=15)
 
-  ![itgauy's GitHub stats](https://readme-stats-rho-murex.vercel.app/api?username=Blyn04&show_icons=true&theme=graywhite&rank_icon=github&hide=stars,contribs&hide_border=true&include_all_commits=true&custom_title=github/itgauy/stats&border_radius=15&card_width=495)
+  ![itgauy's GitHub stats](https://readme-stats-rho-murex.vercel.app/api?username=Blyn04&show_icons=true&theme=graywhite&rank_icon=github&hide=stars,contribs&hide_border=true&include_all_commits=true&custom_radius=15&card_width=495)
 
-  [![itguay's Most Used Languages](https://readme-stats-rho-murex.vercel.app/api/top-langs?username=Blyn04&theme=graywhite&hide_border=true&custom_&border_radius=15&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+  [![itguay's Most Used Languages](https://readme-stats-rho-murex.vercel.app/api/top-langs?username=Blyn04&theme=graywhite&hide_border=true&custom_&border_radius=15&card_width=500)]
 </p>
 
 ---
