@@ -59,14 +59,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Blyn04&theme=dark&hide_border=true&t=1" />
-
-  <!-- GitHub Main Stats -->
+<!--   <img src="https://nirzak-streak-stats.vercel.app/?user=Blyn04&theme=dark&hide_border=true&t=1" />
   <img src="https://github-readme-stats.vercel.app/api?username=Blyn04&show_icons=true&theme=radical" />
   </br>
-  <!-- GitHub Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blyn04&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blyn04&layout=compact&theme=radical" /> -->
+
+  ![itgauy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itgauy&theme=graywhite&hide_border=true&border_radius=15)
+
+  ![itgauy's GitHub stats](https://readme-stats-rho-murex.vercel.app/api?username=itgauy&show_icons=true&theme=graywhite&rank_icon=github&hide=stars,contribs&hide_border=true&include_all_commits=true&custom_title=github/itgauy/stats&border_radius=15&card_width=495)
+
+  [![itguay's Most Used Languages](https://readme-stats-rho-murex.vercel.app/api/top-langs?username=itgauy&theme=graywhite&hide_border=true&custom_title=itgauy.\[fav-lang\]&border_radius=15&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
