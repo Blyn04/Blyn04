@@ -46,14 +46,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Blyn04&theme=darkhub&margin-w=10&no-frame=true"/>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <!--   <img src="https://nirzak-streak-stats.vercel.app/?user=Blyn04&theme=dark&hide_border=true&t=1" />
