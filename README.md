@@ -55,7 +55,7 @@
 
 <div align="center">
   <img src="https://readme-stats-rho-murex.vercel.app/api?username=Blyn04&show_icons=true&theme=graywhite&rank_icon=github&hide=stars,contribs&hide_border=true&include_all_commits=true&custom_radius=15&card_width=495" /> <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blyn04&theme=graywhite&hide_border=true&border_radius=15" /> <br />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Blyn04&theme=graywhite&hide_border=true&border_radius=15" /> <br/>
   <img src="https://readme-stats-rho-murex.vercel.app/api/top-langs?username=Blyn04&theme=graywhite&hide_border=true&border_radius=15&card_width=500" />
 </div>
 
