@@ -48,9 +48,7 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Blyn04&theme=darkhub&margin-w=10&no-frame=true"/>
-</p>
+
 
 ---
 
