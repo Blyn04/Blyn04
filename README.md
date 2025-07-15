@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://blynsu.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Here-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio" />
+    <img src="assets/portfolio.png" alt="Visit My Portfolio" width="500" />
   </a>
 </p>
 
