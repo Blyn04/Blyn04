@@ -14,6 +14,7 @@
 - Backend-leaning Full Stack Developer.
 
 <p align="center">
+  Visit my portfolio to see my projects
   <a href="https://blynsu.vercel.app/" target="_blank">
     <img src="assets/portfolio.png" alt="Visit My Portfolio" width="500" />
   </a>
