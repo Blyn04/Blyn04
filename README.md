@@ -13,8 +13,9 @@
 - 4th-year Bachelor of Science in Information Technology student, specializing in Web and Mobile Application Development.
 - Backend-leaning Full Stack Developer.
 
-<p align="center">
-  Visit my portfolio to see my projects
+<p> Visit my portfolio to see my projects </p>
+
+<p align="center"
   <a href="https://blynsu.vercel.app/" target="_blank">
     <img src="assets/portfolio.png" alt="Visit My Portfolio" width="500" />
   </a>
