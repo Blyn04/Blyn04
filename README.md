@@ -10,7 +10,7 @@
 
 ---
 
-- 4th-year Bachelor of Science in Information Technology student, specializing in Web and Mobile Application Development.
+- 4th-year BSIT student, specializing in Web and Mobile Application Development.
 - Backend-leaning Full Stack Developer.
 
 <p align="center"><strong>Visit my portfolio to see my projects</strong></p>
