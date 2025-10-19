@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://blynsu.vercel.app/" target="_blank">
-    <img src="assets/portfolio.png" alt="Visit My Portfolio" width="500" />
+    <img src="assets/homepage-portfolio.png" alt="Visit My Portfolio" width="500" />
   </a>
 </p>
 
