@@ -9,7 +9,7 @@
 
 ---
 
-- 4th-year BSIT student, specializing in Web and Mobile Application Development.
+- 4th-year IT student, specializing in Web and Mobile Application Development.
 <!-- - A Full Stack Developer who specializes in backend logic, APIs, and data handling -->
 
 <p align="center"><strong>Visit my portfolio to see my projects</strong></p> 
