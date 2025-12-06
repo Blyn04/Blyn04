@@ -85,7 +85,7 @@
   <img src="https://readme-stats-rho-murex.vercel.app/api/top-langs?username=Blyn04&theme=graywhite&hide_border=true&border_radius=15&card_width=500" />  -->
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=Blyn04&theme=dark&hide_border=true&t=1" /> </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blyn04&layout=compact&theme=radical&langs_count=20" />
+  [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Blyn04&layout=compact&langs_count=8)](https://github.com/Blyn04)
 </div>
 
 <!-- ---
