@@ -3,8 +3,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/berlene-bernabe-7a758b373/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/blynsu/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/bellrinsu/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
