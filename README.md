@@ -1,8 +1,6 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Berlene%20Bernabe&textBg=false&fontColor=FFFFFF&fontSize=52&fontAlign=50&fontAlignY=36&animation=twinkling&desc=QA%20Intern%20%7C%20Freelance%20Developer&descSize=16&descAlignY=58&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2&text=Berlene%20Bernabe&textBg=false&fontColor=FFFFFF&fontSize=52&fontAlign=50&fontAlignY=36&animation=twinkling&desc=Full%20Stack%20Software%20Developer%20%7C%7C%20QA%20Engineer%20in%20Training&descSize=16&descAlignY=58&descAlign=50" />
 </div>
-
-<h3 align="center">Full Stack Software Developer || QA Engineer in Training</h3>
 
 <!-- <p align="center">
   <a href="https://www.linkedin.com/in/berlene-bernabe-7a758b373/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
