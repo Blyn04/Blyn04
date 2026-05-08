@@ -64,6 +64,7 @@
 #### QA & Testing Tools
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jam.dev](https://img.shields.io/badge/Jam.dev-FF6C37?style=for-the-badge&logo=jamstack&logoColor=white)
 
 ### Programming Languages
