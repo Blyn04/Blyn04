@@ -73,6 +73,7 @@
 ![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jam.dev](https://img.shields.io/badge/Jam.dev-FF6C37?style=for-the-badge&logo=jamstack&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-47226B?style=for-the-badge&logo=appium&logoColor=white)
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
