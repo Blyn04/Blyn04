@@ -78,6 +78,7 @@
 
 #### RPA & Automation
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+![Pega](https://img.shields.io/badge/Pega-0A5C91?style=for-the-badge&logo=pega&logoColor=white)
 
 #### Design & Wireframing
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
