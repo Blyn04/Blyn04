@@ -76,7 +76,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jam.dev](https://img.shields.io/badge/Jam.dev-FF6C37?style=for-the-badge&logo=jamstack&logoColor=white)
 
-#### RPA & Automation
+#### Automation
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
 ![Pega](https://img.shields.io/badge/Pega-0A5C91?style=for-the-badge&logo=pega&logoColor=white)
 
